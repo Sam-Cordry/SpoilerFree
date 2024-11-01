@@ -1,0 +1,11 @@
+{
+  "name": "SpoilerFree",
+  "author": "Sam Cordry",
+  "description": "This extension provides the mechanisms to provide viewers a way to restrict the information presented to them.",
+  "version": "0.1",
+  "license-type": "GPL-3.0-or-later",
+  "requires": {
+    "MediaWiki": ">= 1.25.0"
+  },
+  "manifest_version": 2
+}
